@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lei Wei 魏磊"
-description              : "Lei Wei @ Tsinghua University"
+description              : "Bioinformatics, Synthetic Biology & Systems Biology"
 repository               : "weilei1992/weilei1992.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lei Wei 魏磊"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tsinghua University 清华大学"
+  bio              : "Tsinghua University <br> 清华大学"
   location         : #"Beijing 北京"
   employer         :
   pubmed           : 
