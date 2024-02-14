@@ -32,8 +32,11 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.01*, Anhui University.
+- *2023.11*, Spatial Biology Congress Asia, Singapore.
+- *2022.03*，The 1st Chinese Intelligent Health and Bioinformatics Conference (IHB) \[第一届智能健康与生物信息大会], Vitual (Fuzhou).
+- *2021.12*，Chinese Academic Conference on Tumor Biomarker (CCTB) 2021 \[2021年中国肿瘤标志物学术大会], Vitual (Shenyang).
+- *2020.12*, Bioinformatics and Intelligent Information Processing Conference (BIIP) 2020 \[生物信息学与智能信息处理2020学术年会], Virtual (Chengdu).
 
 # Academic Services
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
