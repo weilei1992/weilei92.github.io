@@ -27,9 +27,10 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 - *2013.08 - 2019.10*, Ph.D., Department of Automation, Tsinghua University. Supervisor: Prof. Michael Q. Zhang & Prof. Xiaowo Wang.
 - *2009.08 - 2013.07*, B.Eng., Department of Automation, Tsinghua University. 
 
-# Publications 
+# Selected Publications 
 
-- XXX
+1. Minsheng Hao, Erpai Luo, Yixin Chen, Yanhong Wu, Chen Li, Sijie Chen, Haoxiang Gao, Haiyang Bian, Jin Gu, Lei Wei\*, Xuegong Zhang\*. STEM enables mapping of single-cell and spatial transcriptomics data with transfer learning. *Communications Biology*, 2024, 7(1): 56.
+2. Haochen Li, Tianxing Ma, Minsheng Hao, Wenbo Guo, Jin Gu, Xuegong Zhang*, Lei Wei*. Decoding functional cell–cell communication events by multi-view graph learning on spatial transcriptomics. *Briefings in Bioinformatics*, 2023, 24(6): bbad359.
 
 # Talks
 - *2024.01*, Anhui University.
