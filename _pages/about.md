@@ -29,8 +29,19 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 
 # Selected Publications 
 
-1. Minsheng Hao, Erpai Luo, Yixin Chen, Yanhong Wu, Chen Li, Sijie Chen, Haoxiang Gao, Haiyang Bian, Jin Gu, Lei Wei\*, Xuegong Zhang\*. STEM enables mapping of single-cell and spatial transcriptomics data with transfer learning. *Communications Biology*, 2024, 7(1): 56.
-2. Haochen Li, Tianxing Ma, Minsheng Hao, Wenbo Guo, Jin Gu, Xuegong Zhang*, Lei Wei*. Decoding functional cell–cell communication events by multi-view graph learning on spatial transcriptomics. *Briefings in Bioinformatics*, 2023, 24(6): bbad359.
+1. Minsheng Hao, Erpai Luo, Yixin Chen, Yanhong Wu, Chen Li, Sijie Chen, Haoxiang Gao, Haiyang Bian, Jin Gu, **Lei Wei***, Xuegong Zhang*. STEM enables mapping of single-cell and spatial transcriptomics data with transfer learning. *Communications Biology*, 2024, 7(1): 56.
+2. Haochen Li, Tianxing Ma, Minsheng Hao, Wenbo Guo, Jin Gu, Xuegong Zhang*, **Lei Wei***. Decoding functional cell–cell communication events by multi-view graph learning on spatial transcriptomics. *Briefings in Bioinformatics*, 2023, 24(6): bbad359.
+3. Wei Zhang, Hanwen Xu, Rong Qiao, Bixi Zhong, Xianglin Zhang, Jin Gu, Xuegong Zhang, **Lei Wei***, Xiaowo Wang*. ARIC: accurate and robust inference of cell type proportions from bulk gene expression or DNA methylation data. *Briefings in Bioinformatics*. 2022, 23: bbab362.
+4. **Lei Wei**#, Shuailin Li#, Pengcheng Zhang, Tao Hu, Michael Q. Zhang, Zhen Xie, Xiaowo Wang. Characterizing microRNA-mediated modulation of gene expression noise and its effect on synthetic gene circuits. *Cell Reports*, 2021, 36: 109573.
+5. Tao Hu#, **Lei Wei**#, Shuailin Li, Tianrun Cheng, Xuegong Zhang, Xiaowo Wang. Single-cell transcriptomes reveal characteristics of micrornas in gene expression noise reduction. *Genomics, Proteomics & Bioinformatics*, 2021, 19: 394–407.
+19.	Jiaqi Li#, **Lei Wei**#, Xianglin Zhang, Wei Zhang, Haochen Wang, Bixi Zhong, Zhen Xie, Hairong Lv, Xiaowo Wang, DISMIR: Deep learning-based noninvasive cancer detection by integrating DNA sequence and methylation information of individual cell-free DNA reads. *Briefings in Bioinformatics*, 2021, 22(6): bbab250.
+20.	Wei Zhang, **Lei Wei***, Jiaqi Huang, Bixi Zhong, Jiaqi Li, Hanwen Xu, Shuying He, Yu Liu, Juhong Liu, Hairong Lv, Xiaowo Wang*, cfDNApipe: a comprehensive quality control and analysis pipeline for cell-free DNA high-throughput sequencing data. *Bioinformatics*, 2021, 37: 4251–4252.
+21.	Xuehui Liu#, **Lei Wei**#, Qiongye Dong, Liyang Liu, Michael Q Zhang, Zhen Xie, Xiaowo Wang. A large-scale CRISPR screen and identification of essential genes in cellular senescence bypass. *Aging (Albany NY)*, 2019, 11: 4011.
+26.	**Lei Wei**#, Ye Yuan#, Tao Hu, Shuailin Li, Tianrun Cheng, Jinzhi Lei, Zhen Xie, Michael Q Zhang, Xiaowo Wang, Regulation by competition: a hidden layer of gene regulatory network. *Quantitative Biology*, 2019, 7: 110–121.
+
+
+
+  
 
 # Talks
 - *2024.01*, Anhui University.
