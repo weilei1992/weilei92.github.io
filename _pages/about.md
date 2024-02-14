@@ -20,12 +20,12 @@ I'm now a Research Assistant Professor at BNRIST, Tsinghua University. I'm a mem
 My research interest includes single-cell bioinformatics and AI-assisted synthetic biology <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # Working Experience
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.01 - now*, Research Assistant Professor, BNRIST, Tsinghua University.
+- *2019.12 - 2021.12*, Postdoc Research Fellow, Department of Automation, Tsinghua University. Supervisor: Prof. Xiaowo Wang.
 
 # Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.08 - 2019.10*, Ph.D., Department of Automation, Tsinghua University. Supervisor: Prof. Michael Q. Zhang & Prof. Xiaowo Wang.
+- *2009.08 - 2013.07*, B.Eng., Department of Automation, Tsinghua University. 
 
 # Publications 
 
