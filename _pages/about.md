@@ -39,4 +39,5 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 - *2020.12*, Bioinformatics and Intelligent Information Processing Conference (BIIP) 2020 \[生物信息学与智能信息处理2020学术年会], Virtual (Chengdu).
 
 # Academic Services
-- XXX.
+- Review activity
+  - *Nature Methods*, *Nature Communications*, *BMC Bioinformatics*, *Journal of Theoretical Biology*,  *Quantitative Biology*
