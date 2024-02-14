@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm now a Research Assistant Professor at BNRIST, Tsinghua University. I'm a member of [Prof. Xuegong Zhang's Lab](http://xglab.tech/member/index.html). 
-My research interest includes single-cell bioinformatics and AI-assisted synthetic biology <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes single-cell bioinformatics and AI-assisted synthetic biology.
 
 # Working Experience
 - *2022.01 - now*, Research Assistant Professor, BNRIST, Tsinghua University.
@@ -28,6 +28,8 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 - *2009.08 - 2013.07*, B.Eng., Department of Automation, Tsinghua University. 
 
 # Selected Publications 
+
+Full publication list at [Google Scholar](https://scholar.google.com.hk/citations?user=F1jKMakAAAAJ) <a href='https://scholar.google.com/citations?user=F1jKMakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 1. Qiuchen Meng,  **Lei Wei**\*,   Kun Ma,   Ming Shi,   Xinyi Lin,   Joshua W K Ho,   Yinqing Li\*, Xuegong Zhang. scDecouple: decoupling cellular response from infected proportion bias in scCRISPR-seq. *Briefings in Bioinformatics*, 2024, 25(2): bbae011.
 2. Minsheng Hao, Erpai Luo, Yixin Chen, Yanhong Wu, Chen Li, Sijie Chen, Haoxiang Gao, Haiyang Bian, Jin Gu, **Lei Wei**\*, Xuegong Zhang\*. STEM enables mapping of single-cell and spatial transcriptomics data with transfer learning. *Communications Biology*, 2024, 7(1): 56.
