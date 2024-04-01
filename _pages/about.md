@@ -31,7 +31,7 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 
 Full publication list at [Google Scholar](https://scholar.google.com.hk/citations?user=F1jKMakAAAAJ) <a href='https://scholar.google.com/citations?user=F1jKMakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-1.Chuxi Xiao, Yixin Chen, Qiuchen Meng, **Lei Wei**\*, Xuegong Zhang. Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data. *Briefings in Bioinformatics*, 2024, 25(2): bbae095.
+1. Chuxi Xiao, Yixin Chen, Qiuchen Meng, **Lei Wei**\*, Xuegong Zhang. Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data. *Briefings in Bioinformatics*, 2024, 25(2): bbae095.
 2. Qiuchen Meng,  **Lei Wei**\*,   Kun Ma,   Ming Shi,   Xinyi Lin,   Joshua W K Ho,   Yinqing Li\*, Xuegong Zhang. scDecouple: decoupling cellular response from infected proportion bias in scCRISPR-seq. *Briefings in Bioinformatics*, 2024, 25(2): bbae011.
 3. Minsheng Hao, Erpai Luo, Yixin Chen, Yanhong Wu, Chen Li, Sijie Chen, Haoxiang Gao, Haiyang Bian, Jin Gu, **Lei Wei**\*, Xuegong Zhang\*. STEM enables mapping of single-cell and spatial transcriptomics data with transfer learning. *Communications Biology*, 2024, 7(1): 56.
 4. Haochen Li, Tianxing Ma, Minsheng Hao, Wenbo Guo, Jin Gu, Xuegong Zhang\*, **Lei Wei**\*. Decoding functional cell–cell communication events by multi-view graph learning on spatial transcriptomics. *Briefings in Bioinformatics*, 2023, 24(6): bbad359.
