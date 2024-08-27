@@ -31,6 +31,7 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 
 Full publication list at [Google Scholar](https://scholar.google.com.hk/citations?user=F1jKMakAAAAJ) <a href='https://scholar.google.com/citations?user=F1jKMakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+1. Haoxiao Cai, Xiaoran Zhang, Rong Qiao, Xiaowo Wang\*, **Lei Wei**\*. Efficient computation by molecular competition networks. *Physical Review Research*, 2024, 6(3): 033208.
 1. Haoxiang Gao, Kui Hua, Xinze Wu, **Lei Wei**\*, Sijie Chen, Qijin Yin, Rui Jiang, Xuegong Zhang\*. *Communications Biology*, 2024, 7(1): 977.
 1. Haiyang Bian, Yixin Chen, Xiaomin Dong, Chen Li, Minsheng Hao, Sijie Chen, Jinyi Hu, Maosong Sun, **Lei Wei**\*, Xuegong Zhang\*. scMulan: a multitask generative pre-trained language model for single-cell analysis. RECOMB, 2024: 479-482.
 1. Chuxi Xiao, Yixin Chen, Qiuchen Meng, **Lei Wei**\*, Xuegong Zhang. Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data. *Briefings in Bioinformatics*, 2024, 25(2): bbae095.
@@ -58,4 +59,4 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 
 # Academic Services
 - Review activity
-  - *Nature Methods*, *Nature Communications*, *BMC Bioinformatics*, *Journal of Theoretical Biology*,  *Quantitative Biology*
+  - *Nature Methods*, *Nature Communications*, *BMC Bioinformatics*, *Journal of Theoretical Biology*,  *Quantitative Biology*.
