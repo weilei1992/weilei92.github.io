@@ -25,7 +25,7 @@ My research interest includes single-cell bioinformatics and AI-assisted synthet
 
 # Educations
 - *2013.08 - 2019.10*, Ph.D., Department of Automation, Tsinghua University. Supervisor: Prof. Michael Q. Zhang & Prof. Xiaowo Wang.
-- *2009.08 - 2013.07*, B.Eng., Department of Automation, Tsinghua University. 
+- *2009.08 - 2013.07*, B.Eng., Department of Automation, Tsinghua University.
 
 # Selected Publications 
 
