@@ -60,4 +60,4 @@ Full publication list at [Google Scholar](https://scholar.google.com.hk/citation
 
 # Academic Services
 - Review activity
-  - *Nature Methods*, *Nature Communications*, *Genome Research*, *BMC Bioinformatics*, *Journal of Theoretical Biology*,  *Quantitative Biology*.
+  - *Nature Methods*, *Nature Communications*, *Genome Research*, *Cell Genomics*, *Cell Reports Methods*, *BMC Bioinformatics*, *Journal of Theoretical Biology*,  *Quantitative Biology*, etc.
